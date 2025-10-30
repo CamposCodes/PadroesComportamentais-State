@@ -1,0 +1,8 @@
+/workspaces/PadroesComportamentais-State/src/main/java/padroescomportamentais/state/Tarefa.java
+/workspaces/PadroesComportamentais-State/src/main/java/padroescomportamentais/state/TarefaEstado.java
+/workspaces/PadroesComportamentais-State/src/main/java/padroescomportamentais/state/TarefaEstadoAtrasado.java
+/workspaces/PadroesComportamentais-State/src/main/java/padroescomportamentais/state/TarefaEstadoCancelado.java
+/workspaces/PadroesComportamentais-State/src/main/java/padroescomportamentais/state/TarefaEstadoConcluido.java
+/workspaces/PadroesComportamentais-State/src/main/java/padroescomportamentais/state/TarefaEstadoEmEspera.java
+/workspaces/PadroesComportamentais-State/src/main/java/padroescomportamentais/state/TarefaEstadoEmProgresso.java
+/workspaces/PadroesComportamentais-State/src/main/java/padroescomportamentais/state/TarefaEstadoNovo.java

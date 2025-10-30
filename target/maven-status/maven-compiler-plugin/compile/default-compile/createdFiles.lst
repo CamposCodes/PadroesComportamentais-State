@@ -1,0 +1,8 @@
+padroescomportamentais/state/TarefaEstadoEmEspera.class
+padroescomportamentais/state/TarefaEstadoEmProgresso.class
+padroescomportamentais/state/TarefaEstadoConcluido.class
+padroescomportamentais/state/TarefaEstadoAtrasado.class
+padroescomportamentais/state/TarefaEstadoCancelado.class
+padroescomportamentais/state/TarefaEstadoNovo.class
+padroescomportamentais/state/TarefaEstado.class
+padroescomportamentais/state/Tarefa.class
